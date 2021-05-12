@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: cadetblue;
+    font-size: 30px;
+}
+
+div {
+    margin-top: 20px;
+}
+img{
+    height:500px;
+    width:600px;
+}
